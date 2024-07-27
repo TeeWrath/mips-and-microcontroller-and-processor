@@ -1,3 +1,3 @@
 # mips-codes
 
-A repository containing codes written in assembly language
+A repository containing programs written in assembly language in my college.
